@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "VASKO_PMA_01",
-    "slug": "VASKO_PMA_01",
+    "name": "PMACourse01",
+    "slug": "PMACourse01",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
